@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
+<h1 align="center">Hi 👋, I'm Dr. Rabia Javed</h1>
 
-# Hi, I'm Dr. Rabia Javed 👋
+<h3 align="center">
+AI Researcher | Lecturer | Computer Vision Enthusiast
+</h3>
+
 
 **PhD in Computing | Lecturer at LCWU**
 *Deep Learning · Medical Imaging · AI-Driven Innovations*
@@ -32,28 +36,6 @@ Here are some ideas to get you started:
 
 </div>
 </div>
-
----
-
-### 🚀 Professional Summary
-I am a dedicated professional with a strong academic and research background in **Artificial Intelligence**. I specialize in integrating AI-driven innovations into **Medical Imaging** and computing solutions, fostering academic-industry collaborations, and mentoring the next generation of computing professionals.
-
-### 🛠 Technical Expertise
-* **Focus Areas:** Deep Learning, Digital Image Processing, Big Data Analytics.
-* **Research Topics:** Lung Cancer detection, Phyto-pathology, and Deepfake analysis.
-* **Languages & Tools:** Python, SQL, Generative AI, and Image Processing Toolkits.
-
-### 🎓 Education & Experience
-* **PhD in Computing:** Universiti Teknologi Malaysia (UTM).
-* **Lecturer:** Lahore College for Women University (LCWU) since 2014.
-* **Reviewer:** Scientific Reports, Discover Artificial Intelligence, and Discover Oncology.
-
----->
-<h1 align="center">Hi 👋, I'm Rabia Javed</h1>
-
-<h3 align="center">
-AI Researcher | Lecturer | Computer Vision Enthusiast
-</h3>
 
 ---
 
@@ -78,6 +60,23 @@ AI Researcher | Lecturer | Computer Vision Enthusiast
 - Data Analytics
 
 ---
+
+---
+
+### 🚀 Professional Summary
+I am a dedicated professional with a strong academic and research background in **Artificial Intelligence**. I specialize in integrating AI-driven innovations into **Medical Imaging** and computing solutions, fostering academic-industry collaborations, and mentoring the next generation of computing professionals.
+
+### 🛠 Technical Expertise
+* **Focus Areas:** Deep Learning, Digital Image Processing, Big Data Analytics.
+* **Research Topics:** Lung Cancer detection, Phyto-pathology, and Deepfake analysis.
+* **Languages & Tools:** Python, SQL, Generative AI, and Image Processing Toolkits.
+
+### 🎓 Education & Experience
+* **PhD in Computing:** Universiti Teknologi Malaysia (UTM).
+* **Lecturer:** Lahore College for Women University (LCWU) since 2014.
+* **Reviewer:** Scientific Reports, Discover Artificial Intelligence, and Discover Oncology.
+
+---->
 
 ## 📫 Connect With Me
 
