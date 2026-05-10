@@ -21,11 +21,11 @@ AI Researcher | Lecturer | Computer Vision Enthusiast
 </h3>
 *Deep Learning · Medical Imaging · AI-Driven Innovations*
 📍 Lahore, Pakistan · 🌍 Open to Global Research Collaborations
-🎓 PhD in Computing
-🏫 Lecturer at LCWU
-🔬 Research in Deep Learning & Medical Imaging
-💻 Python Developer
-📚 Working on AI & Computer Vision Projects
+-🎓 PhD in Computing
+-🏫 Lecturer at LCWU
+-🔬 Research in Deep Learning & Medical Imaging
+-💻 Python Developer
+-📚 Working on AI & Computer Vision Projects
 <div align="center">
 
 
