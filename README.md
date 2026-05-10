@@ -14,3 +14,44 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm Rabia Javed</h1>
+
+<h3 align="center">
+AI Researcher | Lecturer | Computer Vision Enthusiast
+</h3>
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 PhD in Computing
+- 🏫 Lecturer at LCWU
+- 🔬 Research in Deep Learning & Medical Imaging
+- 💻 Python Developer
+- 📚 Working on AI & Computer Vision Projects
+
+---
+
+## 🚀 Skills
+
+- Python
+- TensorFlow
+- PyTorch
+- OpenCV
+- Machine Learning
+- Deep Learning
+- Data Analytics
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: Your Link
+- Google Scholar: Your Link
+- Email: your@email.com
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RabiaJaveed&show_icons=true)
