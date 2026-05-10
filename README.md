@@ -19,38 +19,25 @@ Here are some ideas to get you started:
 <h3 align="center">
 AI Researcher | Lecturer | Computer Vision Enthusiast
 </h3>
-
-
-**PhD in Computing | Lecturer at LCWU**
 *Deep Learning · Medical Imaging · AI-Driven Innovations*
 📍 Lahore, Pakistan · 🌍 Open to Global Research Collaborations
-
-<br/>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rabia-javed-phd-942521329/) 
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-5323-4984) 
-[![Scopus](https://img.shields.io/badge/SCOPUS-0071B9?style=for-the-badge&logo=elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=56764111000) 
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rabia.javed@lcwu.edu.pk)
-
-</div>
-</div>
-
----
-
 ## 👩‍💻 About Me
-
 - 🎓 PhD in Computing
 - 🏫 Lecturer at LCWU
 - 🔬 Research in Deep Learning & Medical Imaging
 - 💻 Python Developer
 - 📚 Working on AI & Computer Vision Projects
-
 ---
-
+<br/>
+<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rabia-javed-phd-942521329/) 
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-5323-4984) 
+[![Scopus](https://img.shields.io/badge/SCOPUS-0071B9?style=for-the-badge&logo=elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=56764111000) 
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rabia.javed@lcwu.edu.pk)
+</div>
+</div>
+---
 ## 🚀 Skills
-
 - Python
 - TensorFlow
 - PyTorch
@@ -58,9 +45,6 @@ AI Researcher | Lecturer | Computer Vision Enthusiast
 - Machine Learning
 - Deep Learning
 - Data Analytics
-
----
-
 ---
 
 ### 🚀 Professional Summary
@@ -80,12 +64,10 @@ I am a dedicated professional with a strong academic and research background in 
 
 ## 📫 Connect With Me
 
-- LinkedIn: Your Link
-- Google Scholar: Your Link
-- Email: your@email.com
+- LinkedIn: https://www.linkedin.com/in/rabia-javed-phd-942521329/
+- Google Scholar: https://scholar.google.com/citations?user=819vu8wAAAAJ&hl=ja
+- Email: rabia_javeed888@yahoo.com
 
----
 
-## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RabiaJaveed&show_icons=true)
