@@ -28,14 +28,17 @@ AI Researcher | Lecturer | Computer Vision Enthusiast
 - 💻 Python Developer
 - 📚 Working on AI & Computer Vision Projects
 ---
-<br/>
+
 <div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rabia-javed-phd-942521329/) 
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-5323-4984) 
 [![Scopus](https://img.shields.io/badge/SCOPUS-0071B9?style=for-the-badge&logo=elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=56764111000) 
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rabia.javed@lcwu.edu.pk)
+
 </div>
 </div>
+
 ---
 ## 🚀 Skills
 - Python
