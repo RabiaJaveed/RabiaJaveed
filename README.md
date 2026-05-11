@@ -59,6 +59,8 @@ I am a dedicated professional with a strong academic and research background in 
 * **PhD in Computing:** Universiti Teknologi Malaysia (UTM).
 * **Lecturer:** Lahore College for Women University (LCWU) since 2014.
 * **Reviewer:** Scientific Reports, Discover Artificial Intelligence, and Discover Oncology.
+* 
+* ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
 ---->
 
