@@ -36,7 +36,6 @@ AI Researcher | Lecturer | Computer Vision Enthusiast
 </div>
 </div>
 
----
 ## 🚀 Skills
 - Python
 - TensorFlow
@@ -45,7 +44,6 @@ AI Researcher | Lecturer | Computer Vision Enthusiast
 - Machine Learning
 - Deep Learning
 - Data Analytics
----
 
 ### 🚀 Professional Summary
 I am a dedicated professional with a strong academic and research background in **Artificial Intelligence**. I specialize in integrating AI-driven innovations into **Medical Imaging** and computing solutions, fostering academic-industry collaborations, and mentoring the next generation of computing professionals.
@@ -59,9 +57,6 @@ I am a dedicated professional with a strong academic and research background in 
 * **PhD in Computing:** Universiti Teknologi Malaysia (UTM).
 * **Lecturer:** Lahore College for Women University (LCWU) since 2014.
 * **Reviewer:** Scientific Reports, Discover Artificial Intelligence, and Discover Oncology.
-* 
-
----->
 
 ## 📫 Connect With Me
 
