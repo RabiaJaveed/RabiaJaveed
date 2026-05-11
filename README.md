@@ -60,7 +60,6 @@ I am a dedicated professional with a strong academic and research background in 
 * **Lecturer:** Lahore College for Women University (LCWU) since 2014.
 * **Reviewer:** Scientific Reports, Discover Artificial Intelligence, and Discover Oncology.
 * 
-* ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
 ---->
 
@@ -69,5 +68,5 @@ I am a dedicated professional with a strong academic and research background in 
 - LinkedIn: https://www.linkedin.com/in/rabia-javed-phd-942521329/
 - Google Scholar: https://scholar.google.com/citations?user=819vu8wAAAAJ&hl=ja
 - Email: rabia_javeed888@yahoo.com
-
 ------
+* ![](https://komarev.com/ghpvc/?username=Visitors&color=blue)
